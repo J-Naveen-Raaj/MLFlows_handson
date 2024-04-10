@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+mlflow==1.30.0
+jupyter
+pipfile
+psycopg2-binary
+tensorflow
+keras
